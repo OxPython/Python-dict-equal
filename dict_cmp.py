@@ -14,7 +14,6 @@ I can compare several dictionaries in Python?
 d = {'three': 3, 'two': 2, 'one': 1}
 print(d)
 
-
 #Definition of a dictionary
 d2 = {'three': 3, 'two': 2, 'one': 1}
 print(d2)
